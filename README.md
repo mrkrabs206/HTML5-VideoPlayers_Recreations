@@ -4,3 +4,5 @@ All recreations of every old video player (YouTube, MySpace, Google Video etc) i
 Available players:
 MySpaceTV
 Google Video
+
+You can download by finding the one you want inside our collection of players. Enjoy them! (soon YT2009 implementation will be available)
